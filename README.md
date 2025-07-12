@@ -4,6 +4,8 @@ A terminal color scheme inspired by [Catppuccin](https://github.com/catppuccin/c
 
 ![Coconut Latte Preview](assets/wt_colortool.png)
 
+**English** | [简体中文](README-zh.md)
+
 ## Usage
 
 1. Launch Windows Terminal.

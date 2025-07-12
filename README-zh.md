@@ -4,6 +4,8 @@
 
 ![Coconut Latte 预览](assets/wt_colortool.png)
 
+[English](README.md) | **简体中文**
+
 ## 使用方法
 
 1. 打开 Windows Terminal。
